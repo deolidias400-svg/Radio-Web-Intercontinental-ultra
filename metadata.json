@@ -1,0 +1,6 @@
+{
+  "name": "Rádio Intercontinental Player",
+  "description": "Premium interactive digital web radio player with animated companion robot, custom theme injector, audio visualizer, equalizers, and real-time news ticker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
